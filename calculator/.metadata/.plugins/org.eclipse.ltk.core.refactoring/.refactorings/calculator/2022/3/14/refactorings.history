@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;calculator/Core/Src/pca9538.cc&apos; to &apos;pca9538.c&apos;" description="Rename resource &apos;pca9538.cc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Src/pca9538.cc" name="pca9538.c" stamp="1648743298474" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;calculator/Core/Src/keybord.cc&apos; to &apos;keybord.c&apos;" description="Rename resource &apos;keybord.cc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Src/keybord.cc" name="keybord.c" stamp="1648743305436" updateReferences="true"/>
+</session>
