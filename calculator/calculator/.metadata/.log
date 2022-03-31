@@ -1,0 +1,15 @@
+!SESSION 2022-03-31 20:35:47.523 -----------------------------------------------
+eclipse.buildId=Version 1.9.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-03-31 20:36:16.778
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-03-31 20:36:16.852
+!MESSAGE Log4j initialized with config file /home/senina/Desktop/itmo/calculator-embedded-systems/calculator/calculator/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-03-31 20:36:21.593
+!MESSAGE Started RMI Server, listening on port 41337
